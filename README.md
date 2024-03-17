@@ -4,7 +4,7 @@ Scraping FBI data from FBI Webpage to find out where crime rates are highest, su
     - Violent vs non violent, all crime
 - What factiors contribute to crime 
 -  What can be done to reduce crime rates (see counties that have reduced crime rates over time)
-- Potential factors: education (% with at least bachelors(?)(continuous)), population, avg # children per household, income
+- Potential factors: median household income, median house price, unemployment rate (bureau of economic analysis)
 
 
 Authors:  
